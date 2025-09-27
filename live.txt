@@ -19,10 +19,6 @@ CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_1883255
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw456909575_2098882473/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1668595251&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 
-CEC国际汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
@@ -45,12 +41,6 @@ CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
 
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
-CCTV10,http://112.27.235.94:8000/hls/11/index.m3u8
-CCTV11,http://112.27.235.94:8000/hls/12/index.m3u8
-CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
-CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
-CCTV14,http://112.27.235.94:8000/hls/15/index.m3u8
-CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
 CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
 CCTV4,http://112.27.235.94:8000/hls/4/index.m3u8
@@ -60,17 +50,15 @@ CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
 CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
 CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
 CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8
+CCTV10,http://112.27.235.94:8000/hls/11/index.m3u8
+CCTV11,http://112.27.235.94:8000/hls/12/index.m3u8
+CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
+CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
+CCTV14,http://112.27.235.94:8000/hls/15/index.m3u8
+CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
 CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
 
 CCTV1,http://t.061899.xyz/tl/dq.php?id=cctv1
-CCTV10,http://t.061899.xyz/tl/dq.php?id=cctv10
-CCTV11,http://t.061899.xyz/tl/dq.php?id=cctv11
-CCTV12,http://t.061899.xyz/tl/dq.php?id=cctv12
-CCTV13,http://t.061899.xyz/tl/dq.php?id=cctv13
-CCTV14,http://t.061899.xyz/tl/dq.php?id=cctv14
-CCTV15,http://t.061899.xyz/tl/dq.php?id=cctv15
-CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16
-CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 CCTV2,http://t.061899.xyz/tl/dq.php?id=cctv2
 CCTV3,http://t.061899.xyz/tl/dq.php?id=cctv3
 CCTV4,http://t.061899.xyz/tl/dq.php?id=cctv4
@@ -80,6 +68,16 @@ CCTV6,http://t.061899.xyz/tl/dq.php?id=cctv6
 CCTV7,http://t.061899.xyz/tl/dq.php?id=cctv7
 CCTV8,http://t.061899.xyz/tl/dq.php?id=cctv8
 CCTV9,http://t.061899.xyz/tl/dq.php?id=cctv9
+CCTV10,http://t.061899.xyz/tl/dq.php?id=cctv10
+CCTV11,http://t.061899.xyz/tl/dq.php?id=cctv11
+CCTV12,http://t.061899.xyz/tl/dq.php?id=cctv12
+CCTV13,http://t.061899.xyz/tl/dq.php?id=cctv13
+CCTV14,http://t.061899.xyz/tl/dq.php?id=cctv14
+CCTV15,http://t.061899.xyz/tl/dq.php?id=cctv15
+CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16
+CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
+CGTN,http://t.061899.xyz/tl/dq.php?id=cgtn
+CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl
 CCTV阿拉伯语,http://t.061899.xyz/tl/dq.php?id=cgtna
 CCTV俄语,http://t.061899.xyz/tl/dq.php?id=cgtnr
 CCTV发现之旅,http://t.061899.xyz/tl/dq.php?id=fxzl
@@ -87,23 +85,20 @@ CCTV法语,http://t.061899.xyz/tl/dq.php?id=cgtnf
 CCTV老故事,http://t.061899.xyz/tl/dq.php?id=lgs
 CCTV西班牙语,http://t.061899.xyz/tl/dq.php?id=cgtne
 CCTV中学生,http://t.061899.xyz/tl/dq.php?id=zxs
-CGTN,http://t.061899.xyz/tl/dq.php?id=cgtn
-CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl
+
+CEC国际汉语文化,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 
 📡丨卫视频道,#genre#
 
-
-
-
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
-
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
@@ -126,6 +121,8 @@ CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
+
+
 
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
@@ -167,7 +164,7 @@ CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl
 海峡卫视,http://t.061899.xyz/tl/dq.php?id=hxws
 河北卫视,http://t.061899.xyz/tl/dq.php?id=hbws
 河南卫视,http://t.061899.xyz/tl/dq.php?id=hnws
-河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+
 黑龙江卫视,http://t.061899.xyz/tl/dq.php?id=hljws
 湖北卫视,http://t.061899.xyz/tl/dq.php?id=hubws
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
@@ -201,7 +198,7 @@ CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl
 四川卫视,http://t.061899.xyz/tl/dq.php?id=scws
 四海钓鱼,http://t.061899.xyz/tl/dq.php?id=shdy
 西藏卫视,http://t.061899.xyz/tl/dq.php?id=xzws
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+
 新疆卫视,http://t.061899.xyz/tl/dq.php?id=xjws
 优漫卡通,http://t.061899.xyz/tl/dq.php?id=ymkt
 游戏风云,http://t.061899.xyz/tl/dq.php?id=yxfy
@@ -225,6 +222,12 @@ CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl
 生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
 法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
+
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+
+河南卫视,http://lxajh.top/tv/hn.php?id=hnws
+
+浙江卫视,http://101.35.240.114:88/live.php?id=浙江卫视
 
 🐼丨动画频道,#genre#
 
